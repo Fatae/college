@@ -1,0 +1,3 @@
+﻿  148.c
+D:\大学代码\college\1.22\1.22\148.c(148,6): warning C4013: “gets”未定义；假设外部返回 int
+  1.22.vcxproj -> D:\大学代码\college\1.22\Debug\1.22.exe
