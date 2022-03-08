@@ -102,3 +102,15 @@
 //	
 //	return 0;
 //}
+#include<stdio.h>
+int main()
+{
+	int N = 0, n = 0;
+	scanf("%d", &N);
+	for (int i = 0; i < N; i++)
+	{
+		scanf("%*6d%d", &n);
+		printf("6%05d\n", n);//6+五位手机号，不足的话补零
+	}
+	return 0;
+}
